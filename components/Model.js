@@ -6,7 +6,7 @@ const Modal = props => {
 
     return(
         <div ref={modalRef} className={`${className} modal`}>
-            <p>Meu modal!</p>
+            <p>Meu modal! @</p>
         </div>
     )
 }
